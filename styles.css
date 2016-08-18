@@ -1,0 +1,30 @@
+/* add your CSS here */
+img {
+	width: 300px;
+}
+
+li {
+	list-style-type: none;
+}
+.fact {
+	font-style: italic;
+}
+
+.label {
+	font-weight: bold;
+}
+
+.main {
+	border-style: solid;
+	border-color: #d9d9d9;
+	margin: 5px;
+	padding: 5px;
+	box-shadow: 10px 10px 5px #e6e6e6;
+
+}
+
+.info {
+	border-style: solid;
+	border-color: #d9d9d9;
+	padding: 5px;
+}
